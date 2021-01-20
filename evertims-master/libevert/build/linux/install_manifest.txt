@@ -1,0 +1,15 @@
+/usr/local/lib/libevert.so
+/usr/local/include/evert/material.h
+/usr/local/include/evert/elRay.h
+/usr/local/include/evert/elPathSolution.h
+/usr/local/include/evert/elBeam.h
+/usr/local/include/evert/elOrientedPoint.h
+/usr/local/include/evert/elDefs.h
+/usr/local/include/evert/elSource.h
+/usr/local/include/evert/elPolygon.h
+/usr/local/include/evert/elBSP.h
+/usr/local/include/evert/elAABB.h
+/usr/local/include/evert/elListener.h
+/usr/local/include/evert/elVector.h
+/usr/local/include/evert/elRoom.h
+/usr/local/lib/cmake/evert/evertConfig.cmake

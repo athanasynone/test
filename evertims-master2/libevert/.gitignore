@@ -1,8 +1,0 @@
-# MacOS
-.DS_Store
-
-# Build
-build/macos/build
-lib
-
-# XCode
